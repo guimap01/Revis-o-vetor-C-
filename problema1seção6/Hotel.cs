@@ -9,17 +9,17 @@ namespace problema1seção6
         public string Nome { get; set; }
         public string Email { get; set; }
 
-        public int Quarto { get; set; }
-        public Hotel(string nome, string email, int quarto)
+        
+        public Hotel(string nome, string email)
         {
             Nome = nome;
             Email = email;
-            Quarto = quarto;
+          
         }
 
         public override string ToString()
         {
-            return Quarto + ": " + Nome + ", " + Email;
+            return Nome + ", " + Email;
         }
     }
 }

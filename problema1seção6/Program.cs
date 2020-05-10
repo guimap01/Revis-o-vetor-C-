@@ -11,9 +11,9 @@ namespace problema1seção6
             Console.WriteLine("Informe quantos quartos serão alugados");
             int quartos = int.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
-            Hotel[] hotel = new Hotel[quartos];
+            Hotel[] hotel = new Hotel[10];
 
-            for (int i = 0; i < hotel.Length; i++)
+            for (int i = 0; i < quartos; i++)
             {
                 Console.Write("Informe o nome: ");
                 string nome = Console.ReadLine();
@@ -23,13 +23,14 @@ namespace problema1seção6
                 int quarto = int.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
                 Console.WriteLine();
 
-                hotel[i] = new Hotel(nome, email, quarto);
+                hotel[quarto] = new Hotel(nome, email);
             }
 
             Console.WriteLine("Quartos alugados:");
             for (int i = 0; i < hotel.Length; i++)
             {
-                Console.WriteLine(hotel[i]);
+                if (hotel[i] != null)
+                    Console.WriteLine("Quarto: " + i + " " + hotel[i]);
             }
         }
     }
