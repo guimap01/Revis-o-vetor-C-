@@ -1,0 +1,13 @@
+C:\Users\Pedro\source\repos\problema1seção6\problema1seção6\bin\Debug\netcoreapp3.1\problema1seção6.exe
+C:\Users\Pedro\source\repos\problema1seção6\problema1seção6\bin\Debug\netcoreapp3.1\problema1seção6.deps.json
+C:\Users\Pedro\source\repos\problema1seção6\problema1seção6\bin\Debug\netcoreapp3.1\problema1seção6.runtimeconfig.json
+C:\Users\Pedro\source\repos\problema1seção6\problema1seção6\bin\Debug\netcoreapp3.1\problema1seção6.runtimeconfig.dev.json
+C:\Users\Pedro\source\repos\problema1seção6\problema1seção6\bin\Debug\netcoreapp3.1\problema1seção6.dll
+C:\Users\Pedro\source\repos\problema1seção6\problema1seção6\bin\Debug\netcoreapp3.1\problema1seção6.pdb
+C:\Users\Pedro\source\repos\problema1seção6\problema1seção6\obj\Debug\netcoreapp3.1\problema1seção6.csprojAssemblyReference.cache
+C:\Users\Pedro\source\repos\problema1seção6\problema1seção6\obj\Debug\netcoreapp3.1\problema1seção6.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\source\repos\problema1seção6\problema1seção6\obj\Debug\netcoreapp3.1\problema1seção6.AssemblyInfoInputs.cache
+C:\Users\Pedro\source\repos\problema1seção6\problema1seção6\obj\Debug\netcoreapp3.1\problema1seção6.AssemblyInfo.cs
+C:\Users\Pedro\source\repos\problema1seção6\problema1seção6\obj\Debug\netcoreapp3.1\problema1seção6.dll
+C:\Users\Pedro\source\repos\problema1seção6\problema1seção6\obj\Debug\netcoreapp3.1\problema1seção6.pdb
+C:\Users\Pedro\source\repos\problema1seção6\problema1seção6\obj\Debug\netcoreapp3.1\problema1seção6.genruntimeconfig.cache
